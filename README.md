@@ -6,9 +6,7 @@
 
 - [kafka pub/sub]
 ![kafka1](https://user-images.githubusercontent.com/111144637/226301523-8558458b-a0a9-4db4-aba3-17afaa8adb27.PNG)
-
-
-
+----------------------------------------------------------------------------------------------------------------------------
 - [CQRS]
 ![CQRS](https://user-images.githubusercontent.com/111144637/226301571-3a5ef80a-cd55-4dc8-828a-4b192982433c.PNG)
 
