@@ -10,9 +10,44 @@
 
 ![EventStorming](https://user-images.githubusercontent.com/111144637/226492941-119ac024-4622-4991-af1e-895ddfc49d70.PNG)
 ----------------------------------------------------------------------------------------------------------------------------
-- [Kafka Pub/Sub]
+- [Command 테스트]
 
-![kafka](https://user-images.githubusercontent.com/111144637/226497945-a84b2a81-680f-490f-856a-4a96b30c5241.PNG)
+(1) Order
+---
+![order](https://user-images.githubusercontent.com/111144637/226534448-fd8538b7-2d39-48b5-9246-879c25c19f65.PNG)
+
+(2) Cancel
+---
+![cancel](https://user-images.githubusercontent.com/111144637/226534517-858da3a2-e8eb-49ce-bf06-dea729b3be7e.PNG)
+
+(3) Aceept
+---
+![accept](https://user-images.githubusercontent.com/111144637/226534544-321ce202-6e34-4ab8-a8f2-cc85b66530a7.PNG)
+
+(4) Reject
+---
+![reject](https://user-images.githubusercontent.com/111144637/226534559-82ead05b-5845-4b75-b98b-8f1aaacd7d27.PNG)
+
+(5) Start
+---
+![start](https://user-images.githubusercontent.com/111144637/226534579-27d6f499-12fe-4611-b994-8deeebede1de.PNG)
+
+(6) Finish
+---
+![finish](https://user-images.githubusercontent.com/111144637/226534594-c495729a-6f3a-40ac-bfec-5446dca3a1c7.PNG)
+
+(7) Pick
+---
+![pick](https://user-images.githubusercontent.com/111144637/226534611-1838fbde-b555-40e3-af7f-98ac888b93ec.PNG)
+
+(8) Confirm
+---
+![confirm](https://user-images.githubusercontent.com/111144637/226534620-fcd10dd0-4d5c-460b-85d2-40f1dd966554.PNG)
+
+(9) Kafka 이벤트 수신 결과
+---
+![kafka](https://user-images.githubusercontent.com/111144637/226534682-a7b78507-dbfb-4c8a-ae09-055cf3d82bf6.PNG)
+
 ----------------------------------------------------------------------------------------------------------------------------
 - [CQRS]
 
